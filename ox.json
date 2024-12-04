@@ -1,0 +1,61 @@
+{
+  "branding": {
+    "logo": "31a03e74-1639-45b6-bfa7-77447f1a4762",
+    "title": "Title",
+    "theme_category": null,
+    "dark_gradient_colour": null,
+    "light_gradient_colour": null,
+    "dark_gradient_style": null,
+    "light_gradient_style": null,
+    "dark_custom_background_url": null,
+    "light_custom_background_url": null,
+    "primary_color": null,
+    "secondary_color": null,
+    "accent_color": null,
+    "heading_fonts": null,
+    "paragraph_fonts": null,
+    "corner_style": null,
+    "show_mode_toggle": false
+  },
+  "navigation": {
+    "menu_links": [],
+    "primary_links": [],
+    "secondary_links": [],
+    "social_links": [],
+    "copyrights": null,
+    "cta_text": null,
+    "cta_url": null
+  },
+  "topics": [
+    {
+      "name": "Topic 1",
+      "value": "Topic-1"
+    },
+    {
+      "name": "Topic 2",
+      "value": "Topic-2"
+    }
+  ],
+  "pages": [
+    {
+      "type": "page",
+      "name": "page-1",
+      "value": "topic-1/page-1"
+    },
+    {
+      "type": "page",
+      "name": "page-2",
+      "value": "topic-1/page-2"
+    },
+    {
+      "type": "page",
+      "name": "page-1",
+      "value": "topic-2/page-1"
+    },
+    {
+      "type": "page",
+      "name": "page-2",
+      "value": "topic-2/page-2"
+    }
+  ]
+}
