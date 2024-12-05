@@ -1,6 +1,6 @@
 {
   "branding": {
-    "logo": "31a03e74-1639-45b6-bfa7-77447f1a4762",
+    "logo": "320d2908-89bf-43da-913f-d3e6bdca487d",
     "title": "Title",
     "theme_category": null,
     "dark_gradient_colour": null,
@@ -30,10 +30,6 @@
     {
       "name": "Topic 1",
       "value": "Topic-1"
-    },
-    {
-      "name": "Topic 2",
-      "value": "Topic-2"
     }
   ],
   "pages": [
@@ -41,21 +37,6 @@
       "type": "page",
       "name": "page-1",
       "value": "topic-1/page-1"
-    },
-    {
-      "type": "page",
-      "name": "page-2",
-      "value": "topic-1/page-2"
-    },
-    {
-      "type": "page",
-      "name": "page-1",
-      "value": "topic-2/page-1"
-    },
-    {
-      "type": "page",
-      "name": "page-2",
-      "value": "topic-2/page-2"
     }
   ]
 }
